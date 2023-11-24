@@ -8,7 +8,7 @@ body {
 }
 
 header, footer {
-  background-color: #4CAF50;
+  background-color: #4c8baf;
   color: #fff;
   padding: 20px;
 }
@@ -66,7 +66,7 @@ select {
 
 input[type="submit"],
 input[type="button"] {
-  background-color: #4CAF50;
+  background-color: #4c75af;
   color: white;
   border: none;
   border-radius: 4px;
@@ -78,7 +78,7 @@ input[type="button"] {
 }
 
 input[type="submit"]:hover {
-  background-color: #3e8e41;
+  background-color: rgb(62, 121, 142);
 }
 
 span {
@@ -99,7 +99,7 @@ td {
   padding: 10px;
   text-align: center;
   border: 5px solid #4CAF50;
-  background-color: #4CAF50;
+  background-color: #4c82af;
 
 
 }
@@ -127,7 +127,7 @@ a{
   text-decoration: none;
 }
 .listado-servicios a {
-  color: #3e8e41;
+  color: #3e7b8e;
   font-size: 20px;
 }
 
